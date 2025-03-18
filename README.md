@@ -1,4 +1,6 @@
-## Samerr12
+![Banner](https://media.discordapp.net/attachments/927982320093364244/1351488605490642994/banner.png?ex=67da8f58&is=67d93dd8&hm=c00603d7ca2ce0e4d7aaccc2836b2d716f9de6dd9837fe6e02ea686bb7c79248&=&format=webp&quality=lossless&width=550)
+
+---
 
 ### About me
 + Self learner programmer
