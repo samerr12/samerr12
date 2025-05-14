@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/927982320093364244/1351488605490642994/banner.png?ex=67da8f58&is=67d93dd8&hm=c00603d7ca2ce0e4d7aaccc2836b2d716f9de6dd9837fe6e02ea686bb7c79248&=&format=webp&quality=lossless&width=550)
+![Banner](https://cdn.discordapp.com/attachments/621336850883280917/1372134542550499378/banner.png?ex=6825ab5f&is=682459df&hm=0379ed3a0d0077fe499f6e2345440fc371f9308c8690cd950d2ae542aa92b7a9&)
 
 ---
 
