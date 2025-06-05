@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/621336850883280917/1372134542550499378/banner.png?ex=6825ab5f&is=682459df&hm=0379ed3a0d0077fe499f6e2345440fc371f9308c8690cd950d2ae542aa92b7a9&)
+[![banner.png](https://i.postimg.cc/GtWGLr7h/banner.png)](https://postimg.cc/gLKn49bf)
 
 ---
 
